@@ -1,0 +1,2 @@
+# medicalChatApp
+hi, this is a full stack medical chat app that i designed using javaScript, nodeJs, twilio(messaging app), stream(online chat app) along with java and modern api integration techniques. The app won't be operational since it is only linked with my accound and required an accound in stream(free accound only valid for 28 days) for starting. please do check this out and commets will also be appreciated.
